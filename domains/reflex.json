@@ -1,12 +1,12 @@
 {
-    "description": "Describe the use of this subdomain",
-    "repo": "https://github.com/<github-username>/<github-username>.github.io",
+    "description": "Personal site of R3FL3X#1337",
+    "repo": "https://github.com/ReflexTheLegend/ReflexTheLegend.github.io",
     "owner": {
-        "username": "<github-username>",
-        "email": "email@address",
-        "twitter": "<twitter-username>"
+        "username": "ReflexTheLegend",
+        "email": "contact@r3fl3x.tk",
+        "twitter": "ReflexTheLegen"
     },
     "record": {
-        "CNAME": "<username>.github.io"
+        "CNAME": "reflfex.github.io"
     }
 } 
