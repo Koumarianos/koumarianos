@@ -58,10 +58,8 @@ if __name__ == '__main__':
 <br/>
 <p align="left">
   <a href="https://r3fl3x.tk/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ReflexTheLegend&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ReflexTheLegend&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=daglaroglou&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=daglaroglou&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
-
-[![Reflex's Activity Graph](https://activity-graph.herokuapp.com/graph?username=ReflexTheLegend&custom_title=Reflex's%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://r3fl3x.tk)
