@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>ReflexTheLegend</b>
+  <b>{daglaroglou}</b>
 </h1>
 <p align="center"><br>
     <a href="https://discord.com/users/852825042630475827">
