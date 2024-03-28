@@ -8,7 +8,7 @@
     </p>
 
 Hello there! I'm Chris (AKA Reflex), i was born in 2005 and i'm currently studying computers' science!
-Here is my <a href="https://discord.gg/CkgGNekjxB">Discord Server</a> if you wanna join and <a href="https://daglaroglou.vercel.app">here is my website</a> :)
+Here is my <a href="https://discord.gg/CkgGNekjxB">Discord Server</a> if you wanna join and <a href="https://dag.killyourself.lol">here is my website</a> :)
 
 <br>
 
