@@ -25,29 +25,29 @@ class ReflexTheLegend():
     
   def __init__(self):
     self.name = "Christos Daglaroglou";
-    self.username = "R3FL3X";
+    self.username = "daglaroglou";
     self.location = "Thessaloniki, Greece";
-    self.twitter = "@ReflexTheLegend";
-    self.web = "https://r3fl3x.tk";
-    self.discord = "R3FL3X#1337";
+    self.twitter = "@_daglaroglou_";
+    self.web = "https://dag.killyourself.lol";
+    self.discord = "daglaroglou";
   
   def __str__(self):
     return self.name
 
 if __name__ == '__main__':
-    me = ReflexTheLegend()
+    me = daglaroglou()
 ```
 
 
 <div align="center">
-  <a href="https://r3fl3x.tk">
+  <a href="https://dag.killyourself.lol">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
 
 <!--
 <div align="center">
-  <a href="https://r3fl3x.tk">
+  <a href="[https://r3fl3x.tk](https://dag.killyourself.lol)">
     <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
   </a>
 </div>
