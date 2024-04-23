@@ -57,7 +57,7 @@ if __name__ == '__main__':
 
 <br/>
 <p align="left">
-  <a href="https://r3fl3x.tk/">
+  <a href="https://dag.killyourself.lol/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=daglaroglou&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=daglaroglou&theme=gruvbox&hide_border=true" />
   </a>
