@@ -21,7 +21,7 @@ Here is my <a href="https://discord.gg/CkgGNekjxB">Discord Server</a> if you wan
 </p>
 
 ```python
-class ReflexTheLegend():
+class daglaroglou:
     
   def __init__(self):
     self.name = "Christos Daglaroglou";
