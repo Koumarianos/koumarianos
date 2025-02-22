@@ -38,13 +38,6 @@ if __name__ == '__main__':
     me = daglaroglou()
 ```
 
-
-<div align="center">
-  <a href="https://dag.killyourself.lol">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-
 <!--
 <div align="center">
   <a href="[https://r3fl3x.tk](https://dag.killyourself.lol)">
