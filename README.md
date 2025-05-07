@@ -2,13 +2,13 @@
   <b>{Koumarianos}</b>
 </h1>
 <p align="center"><br>
-    <a href="https://discord.com/users/852825042630475827">
-      <img src="https://lanyard.cnrad.dev/api/852825042630475827"/>
+    <a href="https://discord.com/users/753360628399472711">
+      <img src="https://lanyard.cnrad.dev/api/753360628399472711"/>
        </a>
     </p>
 
-Hello there! I'm Chris (AKA Reflex), i was born in 2005 and i'm currently studying computers' science!
-Here is my <a href="https://dag.killyourself.lol"> website</a> :)
+Hello there! I'm Konstantinos (AKA Koumarianos), i was born in 2007 and i'm currently at my last high school year.
+Here is my <a href="https://koumarianos24.gr"> website</a> :)
 
 <br>
 
@@ -21,21 +21,21 @@ Here is my <a href="https://dag.killyourself.lol"> website</a> :)
 </p>
 
 ```python
-class daglaroglou:
+class koumarianos:
     
   def __init__(self):
-    self.name = "Christos Daglaroglou";
-    self.username = "daglaroglou";
-    self.location = "Thessaloniki, Greece";
-    self.twitter = "@_daglaroglou_";
-    self.web = "https://dag.killyourself.lol";
-    self.discord = "daglaroglou";
+    self.name = "Konstantinos Koumarianos";
+    self.username = "koumarianos_";
+    self.location = "Syros, Greece";
+    self.twitter = "@koumarianos_";
+    self.web = "https://koumarianos24.gr";
+    self.discord = "koumarianos_";
   
   def __str__(self):
     return self.name
 
 if __name__ == '__main__':
-    me = daglaroglou()
+    me = koumarianos()
 ```
 
 <!--
@@ -50,7 +50,7 @@ if __name__ == '__main__':
 
 <br/>
 <p align="left">
-  <a href="https://dag.killyourself.lol/">
+  <a href="https://koumarianos24.gr">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=daglaroglou&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=daglaroglou&theme=gruvbox&hide_border=true" />
   </a>
