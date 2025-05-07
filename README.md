@@ -1,4 +1,8 @@
-<h1 align="center"><b>Koumarianos</b></h1>
+<h1 align="center">✨ Konstantinos Koumarianos ✨</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=e6d3a3&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Student+%26+Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <a href="https://discord.com/users/753360628399472711">
@@ -7,47 +11,113 @@
 </p>
 
 <p align="center">
-  Hello there! I'm <b>Konstantinos (AKA Koumarianos)</b>.<br>
-  I was born in 2007 and I'm currently in my last year of high school.
-</p>
-
-<p align="center">
   <a href="https://koumarianos24.gr">
-    <img src="https://img.shields.io/badge/-Visit My Website-007acc?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=282828" alt="Visit My Website">
+    <img src="https://img.shields.io/badge/-Website-007acc?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=282828" alt="Website">
+  </a>
+  <a href="https://twitter.com/koumarianos_">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=282828" alt="Twitter">
+  </a>
+  <a href="https://discord.com/users/koumarianos_">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=282828" alt="Discord">
   </a>
 </p>
 
----
-
-### 🛠️ Languages & Tools
-
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=white&labelColor=282828" alt="HTML">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=white&labelColor=282828" alt="CSS">
-  <img src="https://img.shields.io/badge/-Lua-98b982?style=for-the-badge&logo=lua&logoColor=white&labelColor=282828" alt="Lua">
-  <img src="https://img.shields.io/badge/-JavaScript-98b982?style=for-the-badge&logo=javascript&logoColor=white&labelColor=282828" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-TypeScript-98b982?style=for-the-badge&logo=typescript&logoColor=white&labelColor=282828" alt="TypeScript">
+  <img src="https://komarev.com/ghpvc/?username=Koumarianos&style=flat-square&color=e6d3a3" alt="Profile Views">
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-```python
-class Koumarianos:
-    def __init__(self):
-        self.name = "Konstantinos Koumarianos"
-        self.username = "koumarianos_"
-        self.location = "Syros, Greece"
-        self.twitter = "@koumarianos_"
-        self.web = "https://koumarianos24.gr"
-        self.discord = "koumarianos_"
+<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" />
 
-    def __str__(self):
-        return self.name
-
-if __name__ == '__main__':
-    me = Koumarianos()
+```javascript
+const koumarianos = {
+  name: "Konstantinos Koumarianos",
+  age: new Date().getFullYear() - 2007,
+  location: "Syros, Greece",
+  education: "Final Year High School Student",
+  hobbies: ["Coding", "Gaming", "Music"],
+  currentFocus: "Web Development & Learning TypeScript",
+  funFact: "I started coding when I was 14!"
+};
 ```
-📊 GitHub Stats
-<p align="center"> <a href="https://github.com/Koumarianos"> <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Koumarianos&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats"> <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Koumarianos&theme=gruvbox&hide_border=true" alt="GitHub Streak"> </a> </p> 
+
+- 📚 Currently in my final year of high school
+- 🌱 I'm constantly learning and improving my skills
+- 💬 Ask me about anything related to web development
+- 📫 Reach me at: koumarianos@example.com
+- 😄 Pronouns: He/Him
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  
+  ### Languages
+  
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=282828" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=282828" alt="CSS3">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=282828" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=282828" alt="TypeScript">
+  <img src="https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=282828" alt="Lua">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=282828" alt="Python">
+  
+  ### Frameworks & Tools
+  
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=282828" alt="Node.js">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=282828" alt="React">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=282828" alt="Git">
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=282828" alt="VSCode">
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Koumarianos">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Koumarianos&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Koumarianos&theme=gruvbox&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koumarianos&layout=compact&theme=gruvbox&hide_border=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koumarianos&theme=gruvbox" />
+</div>
+
+---
+
+## 🚀 Projects
+
+<div align="center">
+  <a href="https://github.com/Koumarianos/project-name">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Koumarianos&repo=project-name&theme=gruvbox&hide_border=true" />
+  </a>
+  <a href="https://github.com/Koumarianos/another-project">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Koumarianos&repo=another-project&theme=gruvbox&hide_border=true" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  
+  ### 🎧 Currently Listening To
+
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  
+  ### 📚 WakaTime Stats
+  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=koumarianos&layout=compact&theme=gruvbox&hide_border=true" alt="WakaTime Stats" />
+  
+</div>
+
+<div align="center">
+  <img src="https://github.com/Koumarianos/Koumarianos/blob/main/assets/github-contribution-grid-snake.svg" alt="snake gif" />
+</div>
+
+<h3 align="center">Thanks for visiting! 👋</h3>
