@@ -95,29 +95,16 @@ const koumarianos = {
 
 <div align="center">
   <a href="https://github.com/Koumarianos/project-name">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Koumarianos&repo=project-name&theme=gruvbox&hide_border=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Koumarianos&repo=password-generator&theme=gruvbox&hide_border=true" />
   </a>
-  <a href="https://github.com/Koumarianos/another-project">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Koumarianos&repo=another-project&theme=gruvbox&hide_border=true" />
-  </a>
+<!--   <a href="https://github.com/Koumarianos/another-project">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Koumarianos&repo=password-generator&theme=gruvbox&hide_border=true" />
+  </a> -->
 </div>
 
 ---
 
 <div align="center">
-  
-  ### 🎧 Currently Listening To
 
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-  
-  ### 📚 WakaTime Stats
-  
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=koumarianos&layout=compact&theme=gruvbox&hide_border=true" alt="WakaTime Stats" />
-  
-</div>
-
-<div align="center">
-  <img src="https://github.com/Koumarianos/Koumarianos/blob/main/assets/github-contribution-grid-snake.svg" alt="snake gif" />
-</div>
 
 <h3 align="center">Thanks for visiting! 👋</h3>
