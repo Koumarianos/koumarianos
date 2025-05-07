@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/-Website-007acc?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=282828" alt="Website">
   </a>
   <a href="https://twitter.com/koumarianos_">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=282828" alt="Twitter">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" alt="X">
   </a>
   <a href="https://discord.com/users/koumarianos_">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=282828" alt="Discord">
@@ -47,7 +47,7 @@ const koumarianos = {
 - 📚 Currently in my final year of high school
 - 🌱 I'm constantly learning and improving my skills
 - 💬 Ask me about anything related to web development
-- 📫 Reach me at: koumarianos@example.com
+- 📫 Reach me at: koumarianoskonstantinos24@gmai.com
 - 😄 Pronouns: He/Him
 
 ---
