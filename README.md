@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/-Website-007acc?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=282828" alt="Website">
   </a>
   <a href="https://x.com/koumarianos_">
-  <img src="https://img.shields.io/badge/-X (AKA TWEETER)-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=282828" alt="X">
+  <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=282828" alt="X">
 </a>
   <a href="https://discord.com/users/koumarianos_">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=282828" alt="Discord">
