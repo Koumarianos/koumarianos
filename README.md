@@ -16,9 +16,11 @@ Here is my <a href="https://koumarianos24.gr"> website</a> :)
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Lua-98b982?style=for-the-badge&logo=lua&logoColor=98b982&labelColor=282828">
+  <img src="https://img.shields.io/badge/-JavaScript-98b982?style=for-the-badge&logo=javascript&logoColor=98b982&labelColor=282828">
+  <img src="https://img.shields.io/badge/-TypeScript-98b982?style=for-the-badge&logo=typescript&logoColor=98b982&labelColor=282828">
 </div>
-</p>
+
 
 ```python
 class koumarianos:
