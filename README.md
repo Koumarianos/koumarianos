@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>{daglaroglou}</b>
+  <b>{Koumarianos}</b>
 </h1>
 <p align="center"><br>
     <a href="https://discord.com/users/852825042630475827">
