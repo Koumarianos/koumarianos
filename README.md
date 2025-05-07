@@ -48,15 +48,6 @@ class Koumarianos:
 
 if __name__ == '__main__':
     me = Koumarianos()
-
-
-## My Statistics
-
-<br/>
-<p align="left">
-  <a href="https://koumarianos24.gr">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Koumarianos&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Koumarianos&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-<br>
+```
+📊 GitHub Stats
+<p align="center"> <a href="https://github.com/Koumarianos"> <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Koumarianos&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats"> <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Koumarianos&theme=gruvbox&hide_border=true" alt="GitHub Streak"> </a> </p> 
