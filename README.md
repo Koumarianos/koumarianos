@@ -32,7 +32,7 @@
 
 <img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" />
 
-javascript
+```javascript
 const koumarianos = {
   name: "Konstantinos Koumarianos",
   age: new Date().getFullYear() - 2007,
@@ -42,7 +42,7 @@ const koumarianos = {
   currentFocus: "Web Development & Learning TypeScript",
   funFact: "I started coding when I was 14!"
 };
-
+```
 
 - 📚 Currently in my final year of high school
 - 🌱 I'm constantly learning and improving my skills
