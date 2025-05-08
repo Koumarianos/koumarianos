@@ -15,8 +15,8 @@
     <img src="https://img.shields.io/badge/-Website-007acc?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=282828" alt="Website">
   </a>
   <a href="https://x.com/koumarianos_">
-  <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=282828" alt="X">
-</a>
+    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=282828" alt="X">
+  </a>
   <a href="https://discord.com/users/koumarianos_">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=282828" alt="Discord">
   </a>
@@ -44,43 +44,44 @@ const koumarianos = {
 };
 ```
 
-- 📚 Currently in my final year of high school
-- 🌱 I'm constantly learning and improving my skills
-- 💬 Ask me about anything related to web development
-- 📫 Reach me at: koumarianoskonstantinos24@gmail.com
+- 🎓 Final-year high school student passionate about tech  
+- 🚀 Focused on building full-stack applications  
+- 🌱 Always learning something new  
+- 📫 Reach me at: **koumarianoskonstantinos24@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-<div align="center">
-  
-  ### Languages
-  
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=282828" alt="HTML5">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=282828" alt="CSS3">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=282828" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=282828" alt="TypeScript">
-  <img src="https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=282828" alt="Lua">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=282828" alt="Python">
-  
-  ### Frameworks & Tools
-  
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=282828" alt="Node.js">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=282828" alt="React">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=282828" alt="Git">
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=282828" alt="VSCode">
-</div>
+### 🗣️ Languages  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=282828)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=282828)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=282828)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=282828)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=282828)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=282828)
+
+### ⚙️ Frameworks & Tools  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=282828)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=282828)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=282828)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=282828)
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Koumarianos&theme=gruvbox&no-frame=true&row=1" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Koumarianos">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Koumarianos&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Koumarianos&theme=gruvbox&hide_border=true" />
-  </a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Koumarianos&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Koumarianos&theme=gruvbox&hide_border=true" />
 </div>
 
 <div align="center">
@@ -98,30 +99,19 @@ const koumarianos = {
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Koumarianos&theme=gruvbox&utcOffset=3" />
 </div>
 
-
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 <div align="center">
-  
-  
   <a href="https://github.com/Koumarianos/portofolioV1">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Koumarianos&repo=portofolioV1&theme=gruvbox&hide_border=true" />
   </a>
-
-
   <a href="https://github.com/Koumarianos/password-generator">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Koumarianos&repo=password-generator&theme=gruvbox&hide_border=true" />
   </a>
-
-
-  
 </div>
 
 ---
 
-<div align="center">
-
-
-<h3 align="center">Thanks for visiting! 👋</h3>
+<h3 align="center">Thanks for visiting! 🚀 Let's connect and create amazing things.</h3>
