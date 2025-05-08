@@ -88,6 +88,17 @@ const koumarianos = {
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koumarianos&theme=gruvbox" />
 </div>
 
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Koumarianos&theme=gruvbox&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Koumarianos&theme=gruvbox" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Koumarianos&theme=gruvbox" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Koumarianos&theme=gruvbox&utcOffset=3" />
+</div>
+
+
 ---
 
 ## 🚀 Projects
