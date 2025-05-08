@@ -48,7 +48,6 @@ const koumarianos = {
 - 🌱 I'm constantly learning and improving my skills
 - 💬 Ask me about anything related to web development
 - 📫 Reach me at: koumarianoskonstantinos24@gmail.com
-- 😄 Pronouns: He/Him
 
 ---
 
