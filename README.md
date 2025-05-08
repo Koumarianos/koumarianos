@@ -93,13 +93,19 @@ const koumarianos = {
 ## 🚀 Projects
 
 <div align="center">
-  <a href="https://github.com/Koumarianos/password-generator">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Koumarianos&repo=password-generator&theme=gruvbox&hide_border=true" />
-  </a>
+  
   
   <a href="https://github.com/Koumarianos/portofolioV1">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Koumarianos&repo=portofolioV1&theme=gruvbox&hide_border=true" />
   </a>
+
+
+  <a href="https://github.com/Koumarianos/password-generator">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Koumarianos&repo=password-generator&theme=gruvbox&hide_border=true" />
+  </a>
+
+
+  
 </div>
 
 ---
