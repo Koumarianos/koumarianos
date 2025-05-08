@@ -38,7 +38,7 @@ const koumarianos = {
   age: new Date().getFullYear() - 2007,
   location: "Syros, Greece",
   education: "Final Year High School Student",
-  hobbies: ["Coding", "Gaming", "Music"],
+  hobbies: ["Coding", "Gaming", "Music", "F1"],
   currentFocus: "Web Development & Learning TypeScript",
   funFact: "I started coding when I was 14!"
 };
@@ -47,7 +47,7 @@ const koumarianos = {
 - 📚 Currently in my final year of high school
 - 🌱 I'm constantly learning and improving my skills
 - 💬 Ask me about anything related to web development
-- 📫 Reach me at: koumarianoskonstantinos24@gmai.com
+- 📫 Reach me at: koumarianoskonstantinos24@gmail.com
 - 😄 Pronouns: He/Him
 
 ---
