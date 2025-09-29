@@ -44,7 +44,7 @@ const koumarianos = {
 };
 ```
 
-- 📚 Currently in my final year of high school
+- 📚 UoA • DIT
 - 🌱 I'm constantly learning and improving my skills
 - 💬 Ask me about anything related to web development
 - 📫 Reach me at: koumarianoskonstantinos24@gmail.com
@@ -55,7 +55,7 @@ const koumarianos = {
 
 <div align="center">
   
-  ### Languages
+  ### Languages (might)
   
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=282828" alt="HTML5">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=282828" alt="CSS3">
