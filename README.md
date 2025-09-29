@@ -1,7 +1,7 @@
 <h1 align="center">Konstantinos Koumarianos 💻</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=e6d3a3&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Student+%26+Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=e6d3a3&center=true&vCenter=true&width=500&lines=Full-Stack+Developer(not);Student+%26+Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 <p align="center">
