@@ -1,7 +1,7 @@
 <h1 align="center">Konstantinos Koumarianos 💻</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=e6d3a3&center=true&vCenter=true&width=500&lines=Full-Stack+Developer(not);Student+%26+Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=e6d3a3&center=true&vCenter=true&width=500&lines=CS+Student+@+UoA;Linux+%26+Terminal+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -15,8 +15,8 @@
     <img src="https://img.shields.io/badge/-Website-007acc?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=282828" alt="Website">
   </a>
   <a href="https://x.com/koumarianos_">
-  <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=282828" alt="X">
-</a>
+    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=282828" alt="X">
+  </a>
   <a href="https://discord.com/users/753360628399472711">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=282828" alt="Discord">
   </a>
@@ -36,18 +36,18 @@
 const koumarianos = {
   name: "Konstantinos Koumarianos",
   age: new Date().getFullYear() - 2007,
-  location: "Syros, Greece",
-  education: "Final Year High School Student",
-  hobbies: ["Coding", "Gaming", "Music", "F1"],
-  currentFocus: "Web Development & Learning TypeScript",
-  funFact: "I started coding when I was 14!"
+  location: "Athens, Greece",
+  education: "Undergraduate CS Student @ UoA (Department of Informatics & Telecommunications)",
+  learning: ["C", "Git", "Linux"],
+  exploring: ["Web Development", "Open Source Projects"],
+  funFact: "Started coding at 14 and never stopped learning!"
 };
 ```
 
-- 📚 UoA • DIT
-- 🌱 I'm constantly learning and improving my skills
-- 💬 Ask me about anything related to web development
-- 📫 Reach me at: koumarianoskonstantinos24@gmail.com
+- 🎓 **CS Student @ University of Athens (UoA - DIT)**
+- 💻 Learning **C**, **Git**, and **Linux** in depth  
+- 🌱 Exploring **web development** & **terminal-based workflows**  
+- 📫 Reach me at: **koumarianoskonstantinos24@gmail.com**
 
 ---
 
@@ -55,21 +55,19 @@ const koumarianos = {
 
 <div align="center">
   
-  ### Languages (might)
+  ### 🌱 Currently Learning
+  
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=282828" alt="C">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=282828" alt="Git">
+  <img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white&labelColor=282828" alt="Linux">
+  
+  ### 💡 Basic Knowledge
   
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=282828" alt="HTML5">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=282828" alt="CSS3">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=282828" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=282828" alt="TypeScript">
-  <img src="https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=282828" alt="Lua">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=282828" alt="Python">
-  
-  ### Frameworks & Tools
-  
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=282828" alt="Node.js">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=282828" alt="React">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=282828" alt="Git">
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=282828" alt="VSCode">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=282828" alt="JavaScript">
+
 </div>
 
 ---
@@ -106,30 +104,24 @@ const koumarianos = {
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Koumarianos&theme=gruvbox&utcOffset=3" />
 </div>
 
-
 ---
 
 ## 🚀 Projects
 
 <div align="center">
   
-  
   <a href="https://github.com/Koumarianos/portofolioV1">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Koumarianos&repo=portofolioV1&theme=gruvbox&hide_border=true" />
   </a>
-
 
   <a href="https://github.com/Koumarianos/password-generator">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Koumarianos&repo=password-generator&theme=gruvbox&hide_border=true" />
   </a>
 
-
-  
 </div>
 
 ---
 
 <div align="center">
-
-
-<h3 align="center">Thanks for visiting! 👋</h3>
+  <h3 align="center">Thanks for visiting! 👋</h3>
+</div>
