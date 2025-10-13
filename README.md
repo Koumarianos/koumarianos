@@ -37,7 +37,7 @@ const koumarianos = {
   name: "Konstantinos Koumarianos",
   age: new Date().getFullYear() - 2007,
   location: "Athens, Greece",
-  education: "Undergraduate CS Student @ UoA (Department of Informatics & Telecommunications)",
+  education: "Undergraduate CS Student @ UoA (DIT)",
   learning: ["C", "Git", "Linux"],
   exploring: ["Web Development", "Open Source Projects"],
   funFact: "Started coding at 14 and never stopped learning!"
