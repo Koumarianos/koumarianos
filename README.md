@@ -14,9 +14,11 @@
   <a href="https://koumarianos24.gr">
     <img src="https://img.shields.io/badge/-Website-007acc?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=282828" alt="Website">
   </a>
-  <!-- <a href="https://x.com/koumarianos_">
-    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=282828" alt="X">
-  </a> -->
+
+  <a href="https://www.linkedin.com/in/koumarianos/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=282828" alt="LinkedIn">
+  </a>
+
   <a href="https://discord.com/users/753360628399472711">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=282828" alt="Discord">
   </a>
